@@ -1,23 +1,23 @@
 {
-    "name": "Bharat Agarwal",
+    "name": "Gurcharan Singh ",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
+            "title": "Python",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "Cloud-Computing",
+            "rating": "92"
         },
         {
-            "title": "Skill 3",
+            "title": "Machine-Learning",
             "rating": "85"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chandigarh Engineering College",
+        "phone": "9781356105",
+        "email": "gurkashyap21@gmail.com"
     }
 }
