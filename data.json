@@ -1,18 +1,18 @@
 {
     "name": "Gurcharan Singh ",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "title": "Electronics and communication Engineering(3rd year), Python Developer
+    "intro": "I like super computers more than super cars.Know more about me from your Google assistant, open google assistant on your phone or any other supported device and say "talk to Mr Guru" ",
     "skills": [{
             "title": "Python",
             "rating": "90"
         },
         {
             "title": "Cloud-Computing",
-            "rating": "92"
+            "rating": "85"
         },
         {
-            "title": "Machine-Learning",
-            "rating": "85"
+            "title": "Electronics",
+            "rating": "90"
         }
     ],
     "contact": {
